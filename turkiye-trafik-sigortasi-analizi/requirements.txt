@@ -1,0 +1,8 @@
+pandas==3.0.3
+numpy==2.5.0
+matplotlib
+seaborn
+plotly
+jupyter
+openpyxl
+requests
